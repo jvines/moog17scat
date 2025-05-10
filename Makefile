@@ -33,7 +33,7 @@ FC = gfortran -fno-range-check -w -fallow-argument-mismatch
 #FC = gfortran # If you have an old version of gfortran 
 
 # the following lines point to some needed libraries
-X11LIB = X11LIB = /usr/X11R6/lib
+X11LIB = /usr/X11R6/lib
 SMLIB = /usr/local/scisoft/packages/sm/lib
 AQLIB = /usr/local/scisoft/lib
 
